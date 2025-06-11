@@ -46,22 +46,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-###
 
-<h3 align="left">Entre em contato comigo através das minhas redes sociais</h3>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=augusto8sena&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
