@@ -48,7 +48,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/augusto8sena/count.svg?" />
+  <https://profile-counter.glitch.me/augusto8sena/count.svg/>
 </div>
 <br>
 
