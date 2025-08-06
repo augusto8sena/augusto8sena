@@ -48,7 +48,7 @@
 <br><br>
 
 <div align="center">
-  <a><https://profile-counter.glitch.me/augusto8sena/count.svg/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=augusto8sena.augusto8sena&"  />
 </div>
 <br>
 
