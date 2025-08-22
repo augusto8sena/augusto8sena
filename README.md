@@ -51,7 +51,7 @@
 </div>
 <br>
 <div align="center">
-  <img height="300" src="https://s2-ge.glbimg.com/I2015Z7eTF0BkJ2rxRKM2JM5sKc=/0x0:3543x2362/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/l/9/99JCFaQbWWfq13Bm11dw/gettyimages-1570801996.jpg"  />
+  <img height="500" src="https://s2-ge.glbimg.com/I2015Z7eTF0BkJ2rxRKM2JM5sKc=/0x0:3543x2362/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/l/9/99JCFaQbWWfq13Bm11dw/gettyimages-1570801996.jpg"  />
 </div>
 
 ###
