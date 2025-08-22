@@ -1,4 +1,4 @@
-<h3 align="left">👋 Olá! Eu sou o Augusto Sena</h3>
+<h3 align="left"> Augusto Sena</h3>
 
 ###
 
