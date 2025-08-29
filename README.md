@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=+Developed+by+Sena;Developer+Front-End+Junior)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=+<Hello+World>;+Developed+by+Sena;Developer+Front-End+Junior)](https://git.io/typing-svg) 
 
 ###
 
