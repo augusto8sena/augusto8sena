@@ -1,4 +1,4 @@
-<h3 align="left"> Augusto Sena</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6108a1&size=35&center=true&vCenter=true&width=1000&lines=+Developed+by+Sena;Developer+Front-End+Junior)](https://git.io/typing-svg) 
 
 ###
 
