@@ -37,6 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+<div align="center">
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto8sena&theme=merko&show_icons=true&hide_border=false&count_private=true"/>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto8sena&theme=merko&show_icons=true&hide_border=false&layout=compact"/>
+ 
+</div>
+
 
 
 
