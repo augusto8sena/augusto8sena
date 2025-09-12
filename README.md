@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas no SENAI<br>💻 Programador Júnior Front-End<br>🌎 Brasil | 17 anos</h4><br>
+<h4 align="left">🎓 Estudante de Desenvolvimento de Sistemas - SENAI<br>💻 Programador Júnior Front-End<br>🌎 Brasil | 17 anos</h4><br>
 
 ###
 ## Most Used Languages
