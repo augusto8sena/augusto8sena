@@ -48,7 +48,7 @@
 
 ## Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=augusto8sena&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=augusto8sena&bg_color=000000&color=#707070&line=07e9a5&point=0a855c&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
