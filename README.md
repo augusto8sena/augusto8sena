@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-## My Dev Skills
+## My Dev Stats
 <div align="center">
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto8sena&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
